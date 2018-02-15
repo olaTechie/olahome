@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/iEvidently/iEvidently.github.io.git
+	branch = master
+[submodule "iEvidently.github.io"]
+	path = iEvidently.github.io
+	url = https://github.com/iEvidently/iEvidently.github.io.git
